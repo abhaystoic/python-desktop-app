@@ -1,0 +1,9 @@
+('/home/abhay/Desktop/TKINTER/build/login/login',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1441971512)
